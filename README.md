@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gaganhr94
-- 👀 Java | Python | C++
+- 👀 Go | Java | Python | C++
 - 🌱 Final Year B.Tech CSE in PES University
 
 <!---
