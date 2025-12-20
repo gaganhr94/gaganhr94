@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a software developer at Guidewire with prior experience as an SDE intern at Expedia Group. I enjoy working on backend and cloud-native technologies, and I actively contribute to open source.
+I’m a software developer at Guidewire Software with prior experience as an SDE Intern at Expedia Group. I enjoy working on backend and cloud-native technologies, and I actively contribute to open source.
 
 
 ## 🌐 Socials:
