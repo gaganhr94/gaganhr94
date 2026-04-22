@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a software developer at Guidewire Software with prior experience with Software Development at Expedia Group. I enjoy working on backend and cloud-native technologies, and I actively contribute to open source.
+I'm a software developer at **Guidewire Software**, with prior experience at **Expedia Group**. My focus is on building reliable backend systems and cloud-native infrastructure, and I'm an active contributor to the open source ecosystem — particularly across **CNCF** projects and the **GUAC** (Graph for Understanding Artifact Composition) community.
 
 
 ## 🌐 Socials:
