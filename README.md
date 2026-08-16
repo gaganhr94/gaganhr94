@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a software developer at **Guidewire Software**, with prior experience at **Expedia Group**. My focus is on building reliable backend systems and cloud-native infrastructure, and I'm an active contributor to the open source ecosystem — particularly across **CNCF** projects and the **GUAC** (Graph for Understanding Artifact Composition) community.
-
+I'm a software developer at Guidewire Software, with prior experience at Expedia Group. My focus is on building reliable backend systems and cloud-native infrastructure, and I'm an active contributor to the open source ecosystem, particularly across CNCF projects. I'm also a maintainer of GUAC (Graph for Understanding Artifact Composition), where I contribute to the project's development and broader community.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaganhr/) 
